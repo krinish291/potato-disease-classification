@@ -255,6 +255,7 @@ const styles = StyleSheet.create({
     zIndex: 10,
   },
   space: {marginVertical: 10, marginHorizontal: 10},
+
   labelText: {color: '#FFF', fontSize: 20, ...fonts.Bold},
   resultText: {fontSize: 32, ...fonts.Bold},
   imageIcon: {height: 40, width: 40, tintColor: '#000'},
