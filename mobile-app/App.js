@@ -211,6 +211,7 @@ const styles = StyleSheet.create({
     ...fonts.Bold,
     color: '#FFF',
   },
+
   clearImage: {height: 40, width: 40, tintColor: '#FFF'},
   mainOuter: {
     flexDirection: 'row',
